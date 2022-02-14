@@ -1,0 +1,5 @@
+seaborn
+japanize_matplotlib
+transformers
+facenet-pytorch
+cvxopt
