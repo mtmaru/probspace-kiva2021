@@ -9,6 +9,10 @@ ProbSpace[「Kiva／クラウドファンディングの資金調達額予測」
 
 ![pipeline](/pipeline.png)
 
+## 資料
+
+[表彰式の発表資料](ProbSpaceクラファンコンペ2位解法.pdf)
+
 ## コード
 
 ### モデル作成
